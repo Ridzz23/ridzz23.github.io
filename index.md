@@ -1,79 +1,40 @@
 ---
-layout: homepage
----
+
+## layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
+I am a Computer Engineering student at the [University of California, San Diego](https://ucsd.edu/), interested in **computer systems, runtime systems, and reliable infrastructure**.
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
+I work on research projects spanning **systems and programming languages**, with a focus on making computational systems easier to use and more reliable.
 
+Currently, I conduct research with [Michael Coblenz](https://coblenz.github.io/) at UC San Diego and [Nikos Vasilakis](https://nikos.vasilak.is/) at Brown University.
 
-## Research Interests
+## Current Research
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+### Unified Shell-Python Programming Model
 
-## News
+Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines.
 
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+### Stream Monitor
 
-## Publications
+Runtime monitoring techniques for detecting silent failures in shell pipelines and improving the reliability of shell-based workflows.
 
-{% include_relative _includes/publications.html %}
+## Experience
 
-## Notes and Presentations
+**Researcher — UC San Diego**
+- A Study of Scientific Notebook Quality
+- Unified Shell-Python Programming Model
 
-{% include_relative _includes/notes.html %}
+**Researcher — Brown University**
+Stream Monitors
 
-## Teaching
+## Education
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+**University of California, San Diego**
+B.S. Computer Engineering, expected June 2027
+CSE Department Honors Candidate
 
-**University of Washington**
+## Links
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
-
-## Service
-
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
-
-## Misc. Links
-
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+[Resume](https://ridzz23.github.io/ridhis.github.io/Resume_SWE.pdf) · [GitHub](https://github.com/Ridzz23) · [LinkedIn](https://www.linkedin.com/in/ridhi-srikanth-8495a6222/)
