@@ -8,15 +8,15 @@ I am a Computer Engineering student at the [University of California, San Diego]
 
 I work on research projects spanning **systems and programming languages**, with a focus on making computational systems easier to use and more reliable.
 
-Currently, I conduct research with [Michael Coblenz](https://coblenz.github.io/) at UC San Diego and [Nikos Vasilakis](https://nikos.vasilak.is/) at Brown University.
+Currently, I conduct research with [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/) at UC San Diego and [Nikos Vasilakis](https://nikos.vasilak.is/) at Brown University.
 
 ## Current Research
 
-### Unified Shell-Python Programming Model
+### Unified Python-Shell Programming Model
 
 Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines.
 
-### Stream Monitor
+### Runtime Monitors
 
 Runtime monitoring techniques for detecting silent failures in shell pipelines and improving the reliability of shell-based workflows.
 
@@ -27,7 +27,7 @@ Runtime monitoring techniques for detecting silent failures in shell pipelines a
 - Unified Shell-Python Programming Model
 
 **Researcher — Brown University**
-Stream Monitors
+Runtime Monitors
 
 ## Education
 
