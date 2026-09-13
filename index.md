@@ -34,7 +34,3 @@ Runtime Monitors
 **University of California, San Diego**
 B.S. Computer Engineering, expected June 2027
 CSE Department Honors Candidate
-
-## Links
-
-[Resume](https://ridzz23.github.io/ridhis.github.io/Resume_SWE.pdf) · [GitHub](https://github.com/Ridzz23) · [LinkedIn](https://www.linkedin.com/in/ridhi-srikanth-8495a6222/)
