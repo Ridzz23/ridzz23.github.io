@@ -24,7 +24,7 @@ Runtime monitoring techniques for detecting silent failures in shell pipelines a
 
 **Researcher — UC San Diego**
 - A Study of Scientific Notebook Quality
-- Unified Shell-Python Programming Model
+- Unified Python-Shell Programming Model
 
 **Researcher — Brown University**
 Runtime Monitors
