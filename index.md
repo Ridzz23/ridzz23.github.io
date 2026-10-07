@@ -46,5 +46,6 @@ Evaluated the reproducibility, readability, and reusability of scientific code t
 ## Education
 
 **University of California, San Diego**
-B.S. Computer Engineering, expected June 2027
+B.S. Computer Engineering   
+Expected graduation: June 2027     
 CSE Department Honors Candidate
