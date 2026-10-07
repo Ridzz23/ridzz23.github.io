@@ -12,9 +12,12 @@ Currently, I conduct research with [Michael Coblenz](https://cseweb.ucsd.edu/~mc
 
 ## Current Research
 
-### Unified Python-Shell Programming Model
+### PEPPER: Shell scripting in Python
 
 Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines.
+
+Won first place at SPLASH/ISSTA Student Research Competition 2026 !
+[Extended Abstract](https://dl.acm.org/doi/10.1145/3837729.3839570) [Poster]
 
 ### Runtime Monitors
 
