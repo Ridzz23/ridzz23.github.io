@@ -18,7 +18,7 @@ Extension of the Python interpreter that unifies Python and shell programming, a
 
 <!-- Won first place at SPLASH/ISSTA Student Research Competition 2026 ! -->   
 
-[Extended Abstract](https://dl.acm.org/doi/10.1145/3837729.3839570) [Poster] **SPLASH/ISSTA SRC 2026**
+[[Extended Abstract]](https://dl.acm.org/doi/10.1145/3837729.3839570) [Poster] **SPLASH/ISSTA SRC 2026**
 
 ### Runtime Monitors
 
@@ -28,16 +28,18 @@ Automatic runtime monitor injection for detecting silent failures and improving 
 
 Evaluated the reproducibility, readability, and reusability of scientific code to identify challenges in building reliable and maintainable research software.
 
-[arXiv](https://arxiv.org/abs/2603.22726) 
+[[arXiv]](https://arxiv.org/abs/2603.22726) 
 
 ## Experience
 
-**Researcher — UC San Diego**
+**Researcher — UC San Diego**   
+
 **Feb 2025 - Present**
 - PEPPER: Shell scripting in Python
 - Study of Scientific Computational Notebooks
 
-**Researcher — Brown University**
+**Researcher — Brown University**     
+
 **June 2026 - Present**
 - Runtime Monitors
 
