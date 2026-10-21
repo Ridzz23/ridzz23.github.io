@@ -16,9 +16,9 @@ Currently, I conduct research with [Michael Coblenz](https://cseweb.ucsd.edu/~mc
 
 Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines.
 
-<!-- Won first place at SPLASH/ISSTA Student Research Competition 2026 ! -->   
+Won first place at SPLASH/ISSTA Student Research Competition 2026 !  
 
-[[Extended Abstract]](https://dl.acm.org/doi/10.1145/3837729.3839570) [Poster] **SPLASH/ISSTA SRC 2026**
+[[Extended Abstract]](https://dl.acm.org/doi/10.1145/3837729.3839570) [Poster](https://ridzz23.github.io/ridhis.github.io/SPLASH_2026_SRC_POSTER.pdf) **SPLASH/ISSTA SRC 2026**
 
 ### Runtime Monitors
 
