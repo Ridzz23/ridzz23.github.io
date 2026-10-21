@@ -10,11 +10,15 @@ I work on research projects spanning **systems and programming languages**, with
 
 Currently, I conduct research with [Michael Coblenz](https://cseweb.ucsd.edu/~mcoblenz/) at UC San Diego and [Nikos Vasilakis](https://nikos.vasilak.is/) at Brown University.
 
+## News
+
+**Won first place at SPLASH/ISSTA Student Research Competition 2026 for PEPPER: Native Shell Scripting in Python!**
+
 ## Research Projects
 
 ### PEPPER: Shell scripting in Python
 
-Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines.
+Extension of the Python interpreter that unifies Python and shell programming, allowing Python programs to seamlessly incorporate shell commands and pipelines. Full paper under review. 
 
 **Won first place at SPLASH/ISSTA Student Research Competition 2026 !**
 
@@ -30,18 +34,15 @@ Evaluated the reproducibility, readability, and reusability of scientific code t
 
 [[arXiv]](https://arxiv.org/abs/2603.22726) 
 
-## Experience
 
-**Researcher — UC San Diego**   
+## Teaching Experience
 
-**Feb 2025 - Present**
-- PEPPER: Shell scripting in Python
-- Study of Scientific Computational Notebooks
+**Course Tutor CSE 110 - Software Engineering**
+Sep 2026 - Present
 
-**Researcher — Brown University**     
+**Course Tutor ECE 35 - Introduction to Analog Design**
+Sep 2025 - Present
 
-**June 2026 - Present**
-- Runtime Monitors
 
 ## Education
 
